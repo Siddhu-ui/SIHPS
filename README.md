@@ -91,5 +91,5 @@ Let me know if you'd like installation commands or more details!
 3. **Email Notifications**: Free for small usage (SendGrid).  
 4. **Development Tools**: Free and open-source for most dependencies.  
 
-Would you like to see a detailed cost breakdown or specific tool alternatives?
+
 
