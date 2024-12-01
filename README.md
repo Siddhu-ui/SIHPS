@@ -31,11 +31,15 @@ Government of Gujarat
 
 ## Proposed Solution / Architecture Diagram
 
-"C:\Users\admin\Downloads\DALL·E 2024-12-01 12.48.33 - A professional architecture diagram for an Alumni Association Platform for a university or institute. It includes multiple layers_ User Devices (Front.webp"
+![Screenshot 2024-12-01 132542](https://github.com/user-attachments/assets/112f9a95-11f9-44fd-bb1a-1db23b920ffc)
+
 
 ## Use Cases
 
-"C:\Users\admin\Pictures\Screenshots\Screenshot 2024-12-01 131032.png"
+
+![Screenshot 2024-12-01 131032](https://github.com/user-attachments/assets/56df41d5-5ff4-480a-9226-09ad6e6e5bcd)
+
+
 
 
 ## Technology Stack
